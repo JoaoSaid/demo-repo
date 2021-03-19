@@ -2,10 +2,10 @@
 
 Alguma descrição
 
-SubHeader
+##SubHeader
 
 Assitindo um tutorial no youtube
 
-Local Development
+##Desenvolvimento local
 
-1 Open index.html in your browser
+1. Abrir index.html no browser 
